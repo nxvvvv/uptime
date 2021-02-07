@@ -1,37 +1,30 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: navaneethkm004 # Your GitHub username
+repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Harmony Bot
+    url: $HARMONY
+    icon: https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true
+  - name: Harmony Bot Website
+    url: $HARMONY-WEB
+    icon: https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true
+  - name: Repl Reviver For Harmony
+    url: $REPL_REVIVER
+    icon: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.saasworthy.com%2Freplit_6832_logo_1585548650_d3me9.png&f=1&nofb=1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  favicon: https://github.com/navaneethkm004/my-images/blob/main/navbin%20(1)%20(1).png?raw=true
+  baseUrl: /uptime
+  theme: dark
+  logoUrl: https://github.com/navaneethkm004/my-images/blob/main/navbin%20(1)%20(1).png?raw=true
+  name: Navaneeth K M
+  introTitle: "This is an uptime page for Navaneeth's projects"
+  introMessage:  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
