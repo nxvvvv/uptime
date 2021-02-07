@@ -23,19 +23,17 @@
     "icon": "https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true",
     "slug": "harmony-bot-website",
     "status": "up",
-    "uptime": "7.40%",
-    "uptimeDay": "7.40%",
-    "uptimeWeek": "7.40%",
-    "uptimeMonth": "7.40%",
-    "uptimeYear": "7.40%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 221,
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2021-02-07": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Repl Reviver For Harmony",
