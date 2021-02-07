@@ -18,12 +18,12 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  favicon: https://github.com/navaneethkm004/my-images/blob/main/navbin%20(1)%20(1).png?raw=true
+  favicon: https://github.com/navaneethkm004/my-images/blob/main/circle-cropped%20(7).png?raw=true
   baseUrl: /uptime
   theme: dark
-  logoUrl: https://github.com/navaneethkm004/my-images/blob/main/navbin%20(1)%20(1).png?raw=true
+  logoUrl: https://github.com/navaneethkm004/my-images/blob/main/circle-cropped%20(7).png?raw=true
   name: Navaneeth K M
-  introTitle: "This is an uptime page for Navaneeth's projects"
+  introTitle:
   introMessage:  
 
 # Upptime also supports notifications, assigning issues, and more
