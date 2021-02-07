@@ -20,7 +20,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   favicon: https://github.com/navaneethkm004/my-images/blob/main/circle-cropped%20(7).png?raw=true
   baseUrl: /uptime
-  theme: dark
+  theme: black
   logoUrl: https://github.com/navaneethkm004/my-images/blob/main/circle-cropped%20(7).png?raw=true
   name: Navaneeth K M
   introTitle:
