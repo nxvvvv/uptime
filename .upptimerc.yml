@@ -8,7 +8,7 @@ sites:
     url: $HARMONY
     icon: https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true
   - name: Harmony Bot Website
-    url: $HARMONY-WEB
+    url: $HARMONY_WEB
     icon: https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true
   - name: Repl Reviver For Harmony
     url: $REPL_REVIVER
