@@ -2,7 +2,7 @@
 
 This repository contains the open-source uptime monitor and status page for [Navaneeth K M](https://navaneethkm004.github.io/uptime), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://github.com/navaneethkm004/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Uptime CI](https://github.com/navaneethkm004/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/navaneethkm004/uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/navaneethkm004/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/navaneethkm004/uptime/workflows/Graphs%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/navaneethkm004/uptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
