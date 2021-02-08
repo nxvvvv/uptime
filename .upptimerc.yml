@@ -2,6 +2,10 @@
 owner: navaneethkm004 # Your GitHub username
 repo: uptime # Your GitHub repository name
 
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
 # Add your sites here
 sites:
   - name: Harmony Bot
@@ -23,8 +27,34 @@ status-website:
   theme: dark
   logoUrl: https://github.com/navaneethkm004/my-images/blob/main/circle-cropped%20(7).png?raw=true
   name: Navaneeth K M
-  introTitle:
-  introMessage:  
+  introTitle: " "
+  introMessage: " " 
+  
+  navbar:
+    - title: Status
+      href: /
+    - title: Website
+      href: https://navaneethkm004.github.io/
+    - title: Github
+      href: https://github.com/navaneethkm004
 
+i18n:
+  footer: "This page is powered by [Navaneeth](https://navaneethkm004.github.io/) 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+#  up: "✅ Up"
+#  degraded: "⚠️ Degraded"
+#  down: "🚨 Down"
+#  liveStatusHtmlComment: "<!--live status-->"
+#  allSystemsOperational: "✅ All systems operational"
+#  degradedPerformance: "⚠️ Degraded performance"
+#  completeOutage: "🚨 Complete outage"
+#  partialOutage: "🟧 Partial outage"  
+
+commitMessages:
+  commitAuthorName: "NavBot"
+  commitAuthorEmail: "uptime-bot@navaneethkm.gq"
+
+workflowSchedule:
+  uptime: "*/2 * * * *"
