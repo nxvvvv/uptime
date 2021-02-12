@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 188,
-    "timeWeek": 173,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "time": 170,
+    "timeDay": 162,
+    "timeWeek": 170,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true",
     "slug": "harmony-bot-website",
     "status": "down",
-    "uptime": "49.66%",
-    "uptimeDay": "56.68%",
-    "uptimeWeek": "49.66%",
-    "uptimeMonth": "49.66%",
-    "uptimeYear": "49.66%",
+    "uptime": "49.63%",
+    "uptimeDay": "56.34%",
+    "uptimeWeek": "49.63%",
+    "uptimeMonth": "49.63%",
+    "uptimeYear": "49.63%",
     "time": 349,
     "timeDay": 462,
     "timeWeek": 349,
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2021-02-12": 572,
+      "2021-02-12": 577,
       "2021-02-11": 658,
       "2021-02-10": 727,
       "2021-02-09": 953,
@@ -44,12 +44,12 @@
   },
   {
     "name": "Repl Reviver For Harmony",
-    "url": "$REPL_REVIVER",
-    "icon": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.saasworthy.com%2Freplit_6832_logo_1585548650_d3me9.png&f=1&nofb=1",
+    "url": "$HARMONY_BACKUP",
+    "icon": "https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true",
     "slug": "repl-reviver-for-harmony",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,6 +58,8 @@
     "timeWeek": 420,
     "timeMonth": 420,
     "timeYear": 420,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-12": 0
+    }
   }
 ]
