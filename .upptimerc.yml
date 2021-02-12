@@ -15,8 +15,8 @@ sites:
     url: $HARMONY_WEB
     icon: https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true
   - name: Repl Reviver For Harmony
-    url: $REPL_REVIVER
-    icon: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.saasworthy.com%2Freplit_6832_logo_1585548650_d3me9.png&f=1&nofb=1
+    url: $HARMONY_BACKUP
+    icon: https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
