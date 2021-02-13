@@ -14,7 +14,7 @@ sites:
   - name: Harmony Bot Website
     url: $HARMONY_WEB
     icon: https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true
-  - name: Harmony Backup
+  - name: Harmony Backup Bot
     url: $HARMONY_BACKUP
     icon: https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true
 
