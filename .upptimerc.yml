@@ -10,13 +10,13 @@ skipHomepageUpdate: true
 sites:
   - name: Harmony Bot
     url: $HARMONY
-    icon: https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true
+    icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
   - name: Harmony Bot Website
     url: $HARMONY_WEB
-    icon: https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true
+    icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
   - name: Harmony Backup Bot
     url: $HARMONY_BACKUP
-    icon: https://github.com/navaneethkm004/my-images/blob/main/logo.png?raw=true
+    icon: https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
