@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot",
     "status": "down",
-    "uptime": "97.01%",
-    "uptimeDay": "63.38%",
-    "uptimeWeek": "94.40%",
-    "uptimeMonth": "97.01%",
-    "uptimeYear": "97.01%",
+    "uptime": "96.97%",
+    "uptimeDay": "62.84%",
+    "uptimeWeek": "94.33%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "96.97%",
     "time": 287,
     "timeDay": 114,
     "timeWeek": 176,
     "timeMonth": 287,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2021-02-20": 527,
+      "2021-02-20": 535,
       "2021-02-16": 37
     }
   },
@@ -25,12 +25,12 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "78.12%",
-    "uptimeDay": "61.06%",
-    "uptimeWeek": "59.01%",
-    "uptimeMonth": "78.12%",
-    "uptimeYear": "78.12%",
+    "status": "down",
+    "uptime": "78.57%",
+    "uptimeDay": "61.59%",
+    "uptimeWeek": "59.84%",
+    "uptimeMonth": "78.57%",
+    "uptimeYear": "78.57%",
     "time": 307,
     "timeDay": 252,
     "timeWeek": 273,
@@ -43,7 +43,7 @@
       "2021-02-17": 458,
       "2021-02-16": 654,
       "2021-02-15": 682,
-      "2021-02-14": 618
+      "2021-02-14": 534
     }
   },
   {
@@ -51,12 +51,12 @@
     "url": "$HARMONY_BACKUP",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
-    "status": "up",
-    "uptime": "64.70%",
-    "uptimeDay": "57.68%",
-    "uptimeWeek": "61.66%",
-    "uptimeMonth": "64.70%",
-    "uptimeYear": "64.70%",
+    "status": "down",
+    "uptime": "65.01%",
+    "uptimeDay": "58.21%",
+    "uptimeWeek": "61.97%",
+    "uptimeMonth": "65.01%",
+    "uptimeYear": "65.01%",
     "time": 169,
     "timeDay": 166,
     "timeWeek": 169,
@@ -69,7 +69,7 @@
       "2021-02-17": 659,
       "2021-02-16": 600,
       "2021-02-15": 611,
-      "2021-02-14": 120
+      "2021-02-14": 88
     }
   }
 ]
