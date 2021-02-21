@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot",
     "status": "down",
-    "uptime": "91.53%",
+    "uptime": "91.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.18%",
-    "uptimeMonth": "91.53%",
-    "uptimeYear": "91.53%",
+    "uptimeWeek": "82.96%",
+    "uptimeMonth": "91.42%",
+    "uptimeYear": "91.42%",
     "time": 287,
     "timeDay": 0,
     "timeWeek": 181,
     "timeMonth": 287,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2021-02-21": 940,
+      "2021-02-21": 962,
       "2021-02-20": 719,
       "2021-02-16": 37
     }
@@ -26,14 +26,14 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "80.17%",
-    "uptimeDay": "59.28%",
-    "uptimeWeek": "60.62%",
-    "uptimeMonth": "80.17%",
-    "uptimeYear": "80.17%",
+    "status": "down",
+    "uptime": "80.46%",
+    "uptimeDay": "59.27%",
+    "uptimeWeek": "61.15%",
+    "uptimeMonth": "80.46%",
+    "uptimeYear": "80.46%",
     "time": 304,
-    "timeDay": 250,
+    "timeDay": 251,
     "timeWeek": 273,
     "timeMonth": 304,
     "timeYear": 304,
@@ -45,7 +45,7 @@
       "2021-02-17": 458,
       "2021-02-16": 654,
       "2021-02-15": 682,
-      "2021-02-14": 64
+      "2021-02-14": 10
     }
   },
   {
@@ -53,14 +53,14 @@
     "url": "$HARMONY_BACKUP",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
-    "status": "up",
-    "uptime": "68.77%",
-    "uptimeDay": "57.97%",
-    "uptimeWeek": "62.57%",
-    "uptimeMonth": "68.77%",
-    "uptimeYear": "68.77%",
+    "status": "down",
+    "uptime": "69.01%",
+    "uptimeDay": "57.96%",
+    "uptimeWeek": "62.80%",
+    "uptimeMonth": "69.01%",
+    "uptimeYear": "69.01%",
     "time": 169,
-    "timeDay": 171,
+    "timeDay": 172,
     "timeWeek": 170,
     "timeMonth": 169,
     "timeYear": 169,
@@ -71,7 +71,7 @@
       "2021-02-18": 613,
       "2021-02-17": 659,
       "2021-02-16": 600,
-      "2021-02-15": 219
+      "2021-02-15": 196
     }
   }
 ]
