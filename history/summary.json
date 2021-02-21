@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot",
     "status": "down",
-    "uptime": "91.89%",
+    "uptime": "91.83%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.97%",
-    "uptimeMonth": "91.89%",
-    "uptimeYear": "91.89%",
+    "uptimeWeek": "83.84%",
+    "uptimeMonth": "91.83%",
+    "uptimeYear": "91.83%",
     "time": 287,
     "timeDay": 0,
     "timeWeek": 181,
     "timeMonth": 287,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2021-02-21": 860,
+      "2021-02-21": 873,
       "2021-02-20": 719,
       "2021-02-16": 37
     }
@@ -26,15 +26,15 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "79.83%",
-    "uptimeDay": "62.21%",
-    "uptimeWeek": "60.12%",
-    "uptimeMonth": "79.83%",
-    "uptimeYear": "79.83%",
+    "status": "down",
+    "uptime": "80.00%",
+    "uptimeDay": "62.20%",
+    "uptimeWeek": "60.43%",
+    "uptimeMonth": "80.00%",
+    "uptimeYear": "80.00%",
     "time": 304,
     "timeDay": 253,
-    "timeWeek": 274,
+    "timeWeek": 275,
     "timeMonth": 304,
     "timeYear": 304,
     "dailyMinutesDown": {
@@ -45,7 +45,7 @@
       "2021-02-17": 458,
       "2021-02-16": 654,
       "2021-02-15": 682,
-      "2021-02-14": 157
+      "2021-02-14": 126
     }
   },
   {
@@ -53,12 +53,12 @@
     "url": "$HARMONY_BACKUP",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
-    "status": "up",
-    "uptime": "68.17%",
-    "uptimeDay": "57.33%",
-    "uptimeWeek": "62.11%",
-    "uptimeMonth": "68.17%",
-    "uptimeYear": "68.17%",
+    "status": "down",
+    "uptime": "68.72%",
+    "uptimeDay": "57.32%",
+    "uptimeWeek": "62.73%",
+    "uptimeMonth": "68.72%",
+    "uptimeYear": "68.72%",
     "time": 169,
     "timeDay": 171,
     "timeWeek": 170,
@@ -71,7 +71,7 @@
       "2021-02-18": 613,
       "2021-02-17": 659,
       "2021-02-16": 600,
-      "2021-02-15": 281
+      "2021-02-15": 219
     }
   }
 ]
