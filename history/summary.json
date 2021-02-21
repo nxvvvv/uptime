@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot",
     "status": "down",
-    "uptime": "92.62%",
-    "uptimeDay": "1.22%",
-    "uptimeWeek": "85.52%",
-    "uptimeMonth": "92.62%",
-    "uptimeYear": "92.62%",
+    "uptime": "92.58%",
+    "uptimeDay": "0.68%",
+    "uptimeWeek": "85.45%",
+    "uptimeMonth": "92.58%",
+    "uptimeYear": "92.58%",
     "time": 287,
     "timeDay": 0,
     "timeWeek": 181,
     "timeMonth": 287,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2021-02-21": 703,
+      "2021-02-21": 711,
       "2021-02-20": 719,
       "2021-02-16": 37
     }
@@ -26,12 +26,12 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "79.83%",
-    "uptimeDay": "66.78%",
-    "uptimeWeek": "60.42%",
-    "uptimeMonth": "79.83%",
-    "uptimeYear": "79.83%",
+    "status": "down",
+    "uptime": "79.96%",
+    "uptimeDay": "66.77%",
+    "uptimeWeek": "60.66%",
+    "uptimeMonth": "79.96%",
+    "uptimeYear": "79.96%",
     "time": 304,
     "timeDay": 244,
     "timeWeek": 273,
@@ -45,7 +45,7 @@
       "2021-02-17": 458,
       "2021-02-16": 654,
       "2021-02-15": 682,
-      "2021-02-14": 224
+      "2021-02-14": 200
     }
   },
   {
@@ -54,24 +54,24 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
     "status": "up",
-    "uptime": "68.34%",
-    "uptimeDay": "59.89%",
-    "uptimeWeek": "62.80%",
-    "uptimeMonth": "68.34%",
-    "uptimeYear": "68.34%",
+    "uptime": "68.12%",
+    "uptimeDay": "60.56%",
+    "uptimeWeek": "62.52%",
+    "uptimeMonth": "68.12%",
+    "uptimeYear": "68.12%",
     "time": 169,
     "timeDay": 168,
     "timeWeek": 170,
     "timeMonth": 169,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2021-02-21": 201,
+      "2021-02-21": 191,
       "2021-02-20": 608,
       "2021-02-19": 755,
       "2021-02-18": 613,
       "2021-02-17": 659,
       "2021-02-16": 600,
-      "2021-02-15": 310
+      "2021-02-15": 348
     }
   }
 ]
