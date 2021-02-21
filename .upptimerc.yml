@@ -53,7 +53,7 @@ i18n:
 #  partialOutage: "🟧 Partial outage"  
 
 commitMessages:
-  commitAuthorName: "NavBot"
+  commitAuthorName: "NKMBot"
   commitAuthorEmail: "uptime-bot@navaneethkm.gq"
 
 workflowSchedule:
