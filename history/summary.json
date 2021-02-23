@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot",
     "status": "up",
-    "uptime": "92.35%",
+    "uptime": "92.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "82.75%",
-    "uptimeMonth": "92.35%",
-    "uptimeYear": "92.35%",
+    "uptimeMonth": "92.36%",
+    "uptimeYear": "92.36%",
     "time": 277,
     "timeDay": 0,
     "timeWeek": 179,
@@ -26,15 +26,15 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "82.12%",
-    "uptimeDay": "45.31%",
-    "uptimeWeek": "59.69%",
-    "uptimeMonth": "82.12%",
-    "uptimeYear": "82.12%",
+    "status": "down",
+    "uptime": "82.31%",
+    "uptimeDay": "47.49%",
+    "uptimeWeek": "60.06%",
+    "uptimeMonth": "82.31%",
+    "uptimeYear": "82.31%",
     "time": 299,
     "timeDay": 276,
-    "timeWeek": 265,
+    "timeWeek": 263,
     "timeMonth": 299,
     "timeYear": 299,
     "dailyMinutesDown": {
@@ -45,7 +45,7 @@
       "2021-02-19": 648,
       "2021-02-18": 549,
       "2021-02-17": 458,
-      "2021-02-16": 123
+      "2021-02-16": 85
     }
   },
   {
@@ -53,15 +53,15 @@
     "url": "$HARMONY_BACKUP",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
-    "status": "up",
-    "uptime": "70.95%",
-    "uptimeDay": "34.73%",
-    "uptimeWeek": "57.35%",
-    "uptimeMonth": "70.95%",
-    "uptimeYear": "70.95%",
+    "status": "down",
+    "uptime": "71.12%",
+    "uptimeDay": "35.97%",
+    "uptimeWeek": "57.52%",
+    "uptimeMonth": "71.12%",
+    "uptimeYear": "71.12%",
     "time": 270,
     "timeDay": 1686,
-    "timeWeek": 320,
+    "timeWeek": 321,
     "timeMonth": 270,
     "timeYear": 270,
     "dailyMinutesDown": {
@@ -71,7 +71,7 @@
       "2021-02-20": 608,
       "2021-02-19": 755,
       "2021-02-18": 613,
-      "2021-02-17": 602
+      "2021-02-17": 585
     }
   }
 ]
