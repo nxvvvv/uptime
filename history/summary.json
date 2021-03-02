@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot",
     "status": "up",
-    "uptime": "94.77%",
+    "uptime": "94.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.77%",
-    "uptimeYear": "94.77%",
+    "uptimeMonth": "94.78%",
+    "uptimeYear": "94.78%",
     "time": 262,
     "timeDay": 258,
     "timeWeek": 207,
@@ -26,14 +26,14 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "86.96%",
-    "uptimeDay": "53.92%",
-    "uptimeWeek": "57.00%",
-    "uptimeMonth": "86.96%",
-    "uptimeYear": "86.96%",
+    "status": "down",
+    "uptime": "87.15%",
+    "uptimeDay": "54.46%",
+    "uptimeWeek": "57.57%",
+    "uptimeMonth": "87.15%",
+    "uptimeYear": "87.15%",
     "time": 288,
-    "timeDay": 251,
+    "timeDay": 254,
     "timeWeek": 260,
     "timeMonth": 288,
     "timeYear": 288,
@@ -44,7 +44,7 @@
       "2021-02-27": 611,
       "2021-02-26": 786,
       "2021-02-25": 610,
-      "2021-02-24": 460
+      "2021-02-24": 403
     }
   },
   {
@@ -52,15 +52,15 @@
     "url": "$HARMONY_BACKUP",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
-    "status": "up",
-    "uptime": "82.29%",
-    "uptimeDay": "44.50%",
-    "uptimeWeek": "55.53%",
-    "uptimeMonth": "82.29%",
-    "uptimeYear": "82.29%",
+    "status": "down",
+    "uptime": "82.41%",
+    "uptimeDay": "44.49%",
+    "uptimeWeek": "55.76%",
+    "uptimeMonth": "82.41%",
+    "uptimeYear": "82.41%",
     "time": 255,
     "timeDay": 169,
-    "timeWeek": 228,
+    "timeWeek": 229,
     "timeMonth": 255,
     "timeYear": 255,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
       "2021-02-27": 712,
       "2021-02-26": 723,
       "2021-02-25": 796,
-      "2021-02-24": 308
+      "2021-02-24": 285
     }
   }
 ]
