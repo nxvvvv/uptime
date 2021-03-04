@@ -26,12 +26,12 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "88.11%",
+    "status": "down",
+    "uptime": "88.18%",
     "uptimeDay": "47.69%",
-    "uptimeWeek": "57.43%",
-    "uptimeMonth": "88.11%",
-    "uptimeYear": "88.11%",
+    "uptimeWeek": "57.68%",
+    "uptimeMonth": "88.18%",
+    "uptimeYear": "88.18%",
     "time": 286,
     "timeDay": 256,
     "timeWeek": 254,
@@ -44,7 +44,7 @@
       "2021-03-01": 463,
       "2021-02-28": 799,
       "2021-02-27": 611,
-      "2021-02-26": 343
+      "2021-02-26": 318
     }
   },
   {
@@ -52,12 +52,12 @@
     "url": "$HARMONY_BACKUP",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
-    "status": "up",
-    "uptime": "82.93%",
-    "uptimeDay": "36.60%",
-    "uptimeWeek": "52.32%",
-    "uptimeMonth": "82.93%",
-    "uptimeYear": "82.93%",
+    "status": "down",
+    "uptime": "83.05%",
+    "uptimeDay": "36.59%",
+    "uptimeWeek": "52.62%",
+    "uptimeMonth": "83.05%",
+    "uptimeYear": "83.05%",
     "time": 247,
     "timeDay": 182,
     "timeWeek": 198,
@@ -70,7 +70,7 @@
       "2021-03-01": 719,
       "2021-02-28": 544,
       "2021-02-27": 712,
-      "2021-02-26": 536
+      "2021-02-26": 505
     }
   }
 ]
