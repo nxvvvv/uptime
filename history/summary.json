@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot",
     "status": "up",
-    "uptime": "95.90%",
+    "uptime": "95.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.90%",
-    "uptimeYear": "95.90%",
+    "uptimeMonth": "95.91%",
+    "uptimeYear": "95.91%",
     "time": 245,
     "timeDay": 162,
     "timeWeek": 169,
@@ -26,14 +26,14 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "89.58%",
-    "uptimeDay": "50.26%",
-    "uptimeWeek": "56.17%",
-    "uptimeMonth": "89.58%",
-    "uptimeYear": "89.58%",
+    "status": "down",
+    "uptime": "89.65%",
+    "uptimeDay": "50.50%",
+    "uptimeWeek": "56.39%",
+    "uptimeMonth": "89.65%",
+    "uptimeYear": "89.65%",
     "time": 283,
-    "timeDay": 271,
+    "timeDay": 267,
     "timeWeek": 261,
     "timeMonth": 283,
     "timeYear": 283,
@@ -44,7 +44,7 @@
       "2021-03-06": 630,
       "2021-03-05": 867,
       "2021-03-04": 801,
-      "2021-03-03": 508
+      "2021-03-03": 486
     }
   },
   {
@@ -52,15 +52,15 @@
     "url": "$HARMONY_BACKUP",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
-    "status": "up",
-    "uptime": "86.25%",
-    "uptimeDay": "57.52%",
-    "uptimeWeek": "52.96%",
-    "uptimeMonth": "86.25%",
-    "uptimeYear": "86.25%",
+    "status": "down",
+    "uptime": "86.33%",
+    "uptimeDay": "60.92%",
+    "uptimeWeek": "53.17%",
+    "uptimeMonth": "86.33%",
+    "uptimeYear": "86.33%",
     "time": 273,
     "timeDay": 459,
-    "timeWeek": 312,
+    "timeWeek": 313,
     "timeMonth": 273,
     "timeYear": 273,
     "dailyMinutesDown": {
@@ -71,7 +71,7 @@
       "2021-03-05": 808,
       "2021-03-04": 997,
       "2021-03-03": 710,
-      "2021-03-02": 147
+      "2021-03-02": 125
     }
   }
 ]
