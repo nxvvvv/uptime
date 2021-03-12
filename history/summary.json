@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot",
     "status": "up",
-    "uptime": "96.29%",
+    "uptime": "96.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.03%",
-    "uptimeYear": "96.29%",
+    "uptimeYear": "96.30%",
     "time": 242,
     "timeDay": 189,
     "timeWeek": 176,
@@ -26,14 +26,14 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "90.54%",
-    "uptimeDay": "52.37%",
-    "uptimeWeek": "56.01%",
-    "uptimeMonth": "89.88%",
-    "uptimeYear": "90.54%",
+    "status": "down",
+    "uptime": "90.66%",
+    "uptimeDay": "53.61%",
+    "uptimeWeek": "56.53%",
+    "uptimeMonth": "90.00%",
+    "uptimeYear": "90.66%",
     "time": 281,
-    "timeDay": 259,
+    "timeDay": 260,
     "timeWeek": 260,
     "timeMonth": 274,
     "timeYear": 281,
@@ -45,7 +45,7 @@
       "2021-03-08": 571,
       "2021-03-07": 818,
       "2021-03-06": 630,
-      "2021-03-05": 59
+      "2021-03-05": 7
     }
   },
   {
@@ -53,15 +53,15 @@
     "url": "$HARMONY_BACKUP",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
-    "status": "up",
-    "uptime": "88.28%",
-    "uptimeDay": "41.96%",
-    "uptimeWeek": "54.72%",
-    "uptimeMonth": "88.28%",
-    "uptimeYear": "88.28%",
+    "status": "down",
+    "uptime": "88.42%",
+    "uptimeDay": "43.86%",
+    "uptimeWeek": "55.19%",
+    "uptimeMonth": "88.42%",
+    "uptimeYear": "88.42%",
     "time": 299,
-    "timeDay": 1071,
-    "timeWeek": 475,
+    "timeDay": 1119,
+    "timeWeek": 477,
     "timeMonth": 299,
     "timeYear": 299,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
       "2021-03-08": 588,
       "2021-03-07": 613,
       "2021-03-06": 739,
-      "2021-03-05": 232
+      "2021-03-05": 184
     }
   }
 ]
