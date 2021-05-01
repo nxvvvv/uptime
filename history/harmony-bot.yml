@@ -1,7 +1,7 @@
 url: $HARMONY
-status: up
-code: 200
-responseTime: 7965
-lastUpdated: 2021-05-01T22:52:19.682Z
+status: down
+code: 404
+responseTime: 12184
+lastUpdated: 2021-05-01T23:03:39.741Z
 startTime: Sun Feb 07 2021 18:07:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
