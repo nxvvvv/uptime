@@ -59,12 +59,12 @@
     "url": "$HARMONY_BACKUP",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
-    "status": "up",
-    "uptime": "95.69%",
-    "uptimeDay": "43.98%",
-    "uptimeWeek": "49.71%",
-    "uptimeMonth": "87.48%",
-    "uptimeYear": "95.69%",
+    "status": "down",
+    "uptime": "95.72%",
+    "uptimeDay": "43.94%",
+    "uptimeWeek": "49.82%",
+    "uptimeMonth": "87.56%",
+    "uptimeYear": "95.72%",
     "time": 316,
     "timeDay": 232,
     "timeWeek": 382,
@@ -79,7 +79,7 @@
       "2021-05-07": 628,
       "2021-05-06": 750,
       "2021-05-05": 636,
-      "2021-05-04": 48
+      "2021-05-04": 12
     }
   }
 ]
