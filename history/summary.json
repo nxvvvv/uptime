@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.76%",
     "time": 886,
     "timeDay": 468,
     "timeWeek": 300,
@@ -32,16 +32,16 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "96.23%",
-    "uptimeDay": "43.29%",
-    "uptimeWeek": "49.77%",
-    "uptimeMonth": "86.89%",
-    "uptimeYear": "96.23%",
+    "status": "down",
+    "uptime": "96.29%",
+    "uptimeDay": "43.28%",
+    "uptimeWeek": "50.01%",
+    "uptimeMonth": "87.12%",
+    "uptimeYear": "96.29%",
     "time": 338,
     "timeDay": 439,
-    "timeWeek": 389,
-    "timeMonth": 452,
+    "timeWeek": 387,
+    "timeMonth": 453,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2021-05-24": 400,
@@ -52,7 +52,7 @@
       "2021-05-19": 574,
       "2021-05-18": 625,
       "2021-05-17": 852,
-      "2021-05-16": 351
+      "2021-05-16": 251
     }
   },
   {
@@ -60,16 +60,16 @@
     "url": "$HARMONY_BACKUP",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
-    "status": "up",
-    "uptime": "96.09%",
-    "uptimeDay": "54.00%",
-    "uptimeWeek": "55.13%",
-    "uptimeMonth": "87.14%",
-    "uptimeYear": "96.09%",
+    "status": "down",
+    "uptime": "96.12%",
+    "uptimeDay": "55.66%",
+    "uptimeWeek": "55.32%",
+    "uptimeMonth": "87.22%",
+    "uptimeYear": "96.12%",
     "time": 333,
     "timeDay": 452,
     "timeWeek": 471,
-    "timeMonth": 476,
+    "timeMonth": 477,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2021-05-24": 287,
@@ -80,7 +80,7 @@
       "2021-05-19": 666,
       "2021-05-18": 600,
       "2021-05-17": 760,
-      "2021-05-16": 893
+      "2021-05-16": 857
     }
   }
 ]
