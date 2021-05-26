@@ -1,7 +1,7 @@
 url: $HARMONY_BACKUP
-status: up
-code: 200
-responseTime: 260
-lastUpdated: 2021-05-26T18:42:07.635Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2021-05-26T21:10:19.215Z
 startTime: Sat Feb 13 2021 06:20:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
