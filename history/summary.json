@@ -41,7 +41,7 @@
     "slug": "harmony-bot-website",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "54.32%",
+    "uptimeDay": "55.57%",
     "uptimeWeek": "62.35%",
     "uptimeMonth": "91.34%",
     "uptimeYear": "98.79%",
@@ -77,7 +77,8 @@
     "timeMonth": 234,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2021-09-13": 1435,
+      "2021-09-14": 13,
+      "2021-09-13": 1440,
       "2021-09-12": 1440,
       "2021-09-11": 1440,
       "2021-09-10": 1440,
