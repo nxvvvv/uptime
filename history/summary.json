@@ -4,9 +4,9 @@
     "url": "$HARMONY",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "99.07%",
@@ -16,6 +16,7 @@
     "timeMonth": 2998,
     "timeYear": 2081,
     "dailyMinutesDown": {
+      "2022-05-09": 0,
       "2022-05-04": 37,
       "2022-05-02": 25,
       "2022-04-27": 51,
@@ -73,8 +74,7 @@
       "2021-08-21": 24,
       "2021-08-18": 26,
       "2021-06-23": 26,
-      "2021-05-25": 27,
-      "2021-05-15": 26
+      "2021-05-25": 27
     }
   },
   {
@@ -82,15 +82,15 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "53.12%",
-    "uptimeWeek": "49.65%",
-    "uptimeMonth": "88.02%",
-    "uptimeYear": "99.00%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "53.73%",
+    "uptimeWeek": "49.78%",
+    "uptimeMonth": "88.10%",
+    "uptimeYear": "99.01%",
     "time": 404,
     "timeDay": 530,
-    "timeWeek": 901,
+    "timeWeek": 903,
     "timeMonth": 700,
     "timeYear": 405,
     "dailyMinutesDown": {
@@ -101,7 +101,7 @@
       "2022-05-05": 798,
       "2022-05-04": 642,
       "2022-05-03": 926,
-      "2022-05-02": 366
+      "2022-05-02": 331
     }
   },
   {
@@ -110,7 +110,7 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
     "status": "down",
-    "uptime": "28.35%",
+    "uptime": "28.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -121,7 +121,7 @@
     "timeMonth": 660,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2022-05-09": 937,
+      "2022-05-09": 953,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
