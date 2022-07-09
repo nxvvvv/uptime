@@ -11,9 +11,9 @@
     "uptimeMonth": "98.23%",
     "uptimeYear": "99.28%",
     "time": 2347,
-    "timeDay": 2793,
-    "timeWeek": 1803,
-    "timeMonth": 3374,
+    "timeDay": 234,
+    "timeWeek": 1398,
+    "timeMonth": 3376,
     "timeYear": 2561,
     "dailyMinutesDown": {
       "2022-07-05": 19,
@@ -77,16 +77,16 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "43.91%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "45.34%",
     "uptimeWeek": "53.95%",
-    "uptimeMonth": "88.65%",
-    "uptimeYear": "99.05%",
+    "uptimeMonth": "88.74%",
+    "uptimeYear": "99.06%",
     "time": 448,
-    "timeDay": 1119,
-    "timeWeek": 992,
-    "timeMonth": 739,
+    "timeDay": 1077,
+    "timeWeek": 986,
+    "timeMonth": 738,
     "timeYear": 449,
     "dailyMinutesDown": {
       "2022-07-09": 765,
@@ -96,7 +96,7 @@
       "2022-07-05": 548,
       "2022-07-04": 668,
       "2022-07-03": 553,
-      "2022-07-02": 336
+      "2022-07-02": 293
     }
   },
   {
@@ -116,7 +116,7 @@
     "timeMonth": 1449,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2022-07-09": 1377,
+      "2022-07-09": 1398,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
       "2022-07-06": 1440,
