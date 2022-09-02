@@ -6,14 +6,14 @@
     "slug": "harmony-bot",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "88.93%",
+    "uptimeDay": "91.23%",
     "uptimeWeek": "95.59%",
-    "uptimeMonth": "94.69%",
+    "uptimeMonth": "94.72%",
     "uptimeYear": "99.02%",
     "time": 2720,
     "timeDay": 8574,
     "timeWeek": 6573,
-    "timeMonth": 4964,
+    "timeMonth": 5018,
     "timeYear": 3090,
     "dailyMinutesDown": {
       "2022-09-01": 203,
@@ -82,15 +82,15 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "56.91%",
-    "uptimeWeek": "54.48%",
-    "uptimeMonth": "88.56%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "56.89%",
+    "uptimeWeek": "54.47%",
+    "uptimeMonth": "88.65%",
     "uptimeYear": "99.05%",
     "time": 503,
     "timeDay": 396,
-    "timeWeek": 517,
+    "timeWeek": 519,
     "timeMonth": 478,
     "timeYear": 505,
     "dailyMinutesDown": {
@@ -102,7 +102,7 @@
       "2022-08-28": 572,
       "2022-08-27": 565,
       "2022-08-26": 578,
-      "2022-08-25": 202
+      "2022-08-25": 162
     }
   },
   {
@@ -122,7 +122,7 @@
     "timeMonth": 2754,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2022-09-02": 511,
+      "2022-09-02": 544,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
