@@ -8,12 +8,12 @@
     "uptime": "99.36%",
     "uptimeDay": "98.90%",
     "uptimeWeek": "93.46%",
-    "uptimeMonth": "93.98%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "98.99%",
     "time": 2808,
     "timeDay": 3787,
     "timeWeek": 6625,
-    "timeMonth": 5598,
+    "timeMonth": 5476,
     "timeYear": 3172,
     "dailyMinutesDown": {
       "2022-09-09": 16,
@@ -82,14 +82,14 @@
     "slug": "harmony-bot-website",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "59.97%",
-    "uptimeWeek": "56.70%",
+    "uptimeDay": "60.09%",
+    "uptimeWeek": "57.28%",
     "uptimeMonth": "87.89%",
     "uptimeYear": "98.99%",
     "time": 520,
-    "timeDay": 643,
+    "timeDay": 666,
     "timeWeek": 1403,
-    "timeMonth": 658,
+    "timeMonth": 659,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2022-09-09": 575,
@@ -120,7 +120,8 @@
     "timeMonth": 2448,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2022-09-09": 1417,
+      "2022-09-10": 35,
+      "2022-09-09": 1440,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
@@ -483,8 +484,7 @@
       "2021-09-14": 1440,
       "2021-09-13": 1440,
       "2021-09-12": 1440,
-      "2021-09-11": 1440,
-      "2021-09-10": 1440
+      "2021-09-11": 1440
     }
   }
 ]
