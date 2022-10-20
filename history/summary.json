@@ -4,18 +4,19 @@
     "url": "$HARMONY",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.89%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.88%",
     "uptimeMonth": "99.38%",
-    "uptimeYear": "98.99%",
-    "time": 3107,
+    "uptimeYear": "99.00%",
+    "time": 3111,
     "timeDay": 439,
     "timeWeek": 5198,
     "timeMonth": 5103,
     "timeYear": 3460,
     "dailyMinutesDown": {
+      "2022-10-20": 0,
       "2022-10-18": 59,
       "2022-10-16": 52,
       "2022-10-13": 25,
@@ -71,7 +72,7 @@
       "2022-06-10": 43,
       "2022-06-09": 121,
       "2022-06-08": 318,
-      "2022-06-07": 84
+      "2022-06-07": 36
     }
   },
   {
@@ -79,12 +80,12 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "61.24%",
-    "uptimeWeek": "57.50%",
-    "uptimeMonth": "85.14%",
-    "uptimeYear": "98.76%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "63.30%",
+    "uptimeWeek": "57.79%",
+    "uptimeMonth": "85.24%",
+    "uptimeYear": "98.77%",
     "time": 541,
     "timeDay": 288,
     "timeWeek": 335,
@@ -101,7 +102,7 @@
       "2022-10-13": 939,
       "2022-10-12": 712,
       "2022-10-11": 802,
-      "2022-10-10": 253
+      "2022-10-10": 209
     }
   },
   {
@@ -110,7 +111,7 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
     "status": "down",
-    "uptime": "20.79%",
+    "uptime": "20.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -121,7 +122,7 @@
     "timeMonth": 1032,
     "timeYear": 1270,
     "dailyMinutesDown": {
-      "2022-10-20": 659,
+      "2022-10-20": 690,
       "2022-10-19": 1440,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
