@@ -10,11 +10,11 @@
     "uptimeWeek": "98.09%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "98.99%",
-    "time": 3129,
-    "timeDay": 4337,
-    "timeWeek": 5353,
-    "timeMonth": 5255,
-    "timeYear": 3468,
+    "time": 3138,
+    "timeDay": 6765,
+    "timeWeek": 5797,
+    "timeMonth": 5415,
+    "timeYear": 3479,
     "dailyMinutesDown": {
       "2022-10-20": 81,
       "2022-10-18": 59,
@@ -80,18 +80,19 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "49.30%",
-    "uptimeWeek": "57.57%",
-    "uptimeMonth": "85.13%",
-    "uptimeYear": "98.76%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "52.71%",
+    "uptimeWeek": "57.91%",
+    "uptimeMonth": "85.33%",
+    "uptimeYear": "98.78%",
     "time": 541,
-    "timeDay": 302,
-    "timeWeek": 336,
-    "timeMonth": 460,
+    "timeDay": 325,
+    "timeWeek": 338,
+    "timeMonth": 461,
     "timeYear": 543,
     "dailyMinutesDown": {
+      "2022-10-21": 1,
       "2022-10-20": 679,
       "2022-10-19": 399,
       "2022-10-18": 487,
@@ -101,7 +102,7 @@
       "2022-10-14": 433,
       "2022-10-13": 939,
       "2022-10-12": 712,
-      "2022-10-11": 619
+      "2022-10-11": 532
     }
   },
   {
@@ -115,13 +116,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 999,
-    "timeDay": 235,
-    "timeWeek": 265,
-    "timeMonth": 1032,
-    "timeYear": 1270,
+    "time": 1025,
+    "timeDay": 5128,
+    "timeWeek": 1238,
+    "timeMonth": 1027,
+    "timeYear": 1305,
     "dailyMinutesDown": {
-      "2022-10-20": 1381,
+      "2022-10-21": 2,
+      "2022-10-20": 1440,
       "2022-10-19": 1440,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
@@ -484,8 +486,7 @@
       "2021-10-25": 1440,
       "2021-10-24": 1440,
       "2021-10-23": 1440,
-      "2021-10-22": 1440,
-      "2021-10-21": 1440
+      "2021-10-22": 1440
     }
   }
 ]
