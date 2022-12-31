@@ -13,7 +13,7 @@
     "time": 3282,
     "timeDay": 178,
     "timeWeek": 2528,
-    "timeMonth": 1684,
+    "timeMonth": 1659,
     "timeYear": 3657,
     "dailyMinutesDown": {
       "2022-12-29": 18,
@@ -84,17 +84,18 @@
     "slug": "harmony-bot-website",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "59.49%",
-    "uptimeWeek": "57.50%",
-    "uptimeMonth": "90.22%",
+    "uptimeDay": "59.23%",
+    "uptimeWeek": "57.16%",
+    "uptimeMonth": "90.14%",
     "uptimeYear": "99.18%",
     "time": 555,
     "timeDay": 323,
     "timeWeek": 394,
-    "timeMonth": 359,
+    "timeMonth": 361,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2022-12-30": 576,
+      "2022-12-31": 25,
+      "2022-12-30": 585,
       "2022-12-29": 779,
       "2022-12-28": 706,
       "2022-12-27": 801,
@@ -112,7 +113,7 @@
     "uptime": "18.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1378,
     "timeDay": 341,
@@ -120,7 +121,8 @@
     "timeMonth": 3437,
     "timeYear": 1627,
     "dailyMinutesDown": {
-      "2022-12-30": 1433,
+      "2022-12-31": 26,
+      "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
       "2022-12-27": 1440,
@@ -483,8 +485,7 @@
       "2022-01-04": 1440,
       "2022-01-03": 1440,
       "2022-01-02": 1440,
-      "2022-01-01": 1440,
-      "2021-12-31": 1440
+      "2022-01-01": 1440
     }
   }
 ]
