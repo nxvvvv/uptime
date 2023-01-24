@@ -60,5 +60,6 @@ jobs:
         with:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
+          force_orphan: "false"
           user_name: "NKMBot"
           user_email: "uptime-bot@navaneethkm.gq"
