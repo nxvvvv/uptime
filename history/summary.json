@@ -4,18 +4,19 @@
     "url": "$HARMONY",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.41%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.04%",
-    "time": 3196,
-    "timeDay": 399,
-    "timeWeek": 1715,
-    "timeMonth": 1725,
+    "time": 3200,
+    "timeDay": 2038,
+    "timeWeek": 1830,
+    "timeMonth": 1762,
     "timeYear": 3741,
     "dailyMinutesDown": {
+      "2023-02-15": 0,
       "2023-02-12": 50,
       "2023-02-09": 75,
       "2023-02-08": 36,
@@ -77,7 +78,7 @@
       "2022-08-22": 104,
       "2022-08-21": 48,
       "2022-08-19": 15,
-      "2022-08-18": 178
+      "2022-08-18": 159
     }
   },
   {
@@ -85,11 +86,11 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "51.33%",
-    "uptimeWeek": "59.71%",
-    "uptimeMonth": "90.73%",
+    "uptimeDay": "51.35%",
+    "uptimeWeek": "60.04%",
+    "uptimeMonth": "90.81%",
     "uptimeYear": "99.23%",
     "time": 576,
     "timeDay": 328,
@@ -103,7 +104,7 @@
       "2023-02-12": 697,
       "2023-02-11": 632,
       "2023-02-10": 591,
-      "2023-02-09": 508
+      "2023-02-09": 474
     }
   },
   {
@@ -112,7 +113,7 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
     "status": "down",
-    "uptime": "17.44%",
+    "uptime": "17.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -123,7 +124,7 @@
     "timeMonth": 2614,
     "timeYear": 1864,
     "dailyMinutesDown": {
-      "2023-02-15": 696,
+      "2023-02-15": 707,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
       "2023-02-12": 1440,
