@@ -4,18 +4,19 @@
     "url": "$HARMONY",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "99.02%",
-    "time": 3204,
+    "uptimeYear": "99.03%",
+    "time": 3206,
     "timeDay": 188,
     "timeWeek": 1981,
     "timeMonth": 1627,
     "timeYear": 3747,
     "dailyMinutesDown": {
+      "2023-02-27": 0,
       "2023-02-16": 98,
       "2023-02-12": 50,
       "2023-02-09": 75,
@@ -78,7 +79,7 @@
       "2022-08-22": 104,
       "2022-08-21": 48,
       "2022-08-19": 15,
-      "2022-08-18": 159
+      "2022-08-18": 134
     }
   },
   {
@@ -86,15 +87,15 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "53.59%",
-    "uptimeWeek": "55.92%",
-    "uptimeMonth": "89.86%",
-    "uptimeYear": "99.15%",
+    "uptimeDay": "54.78%",
+    "uptimeWeek": "56.23%",
+    "uptimeMonth": "89.93%",
+    "uptimeYear": "99.16%",
     "time": 579,
-    "timeDay": 386,
-    "timeWeek": 460,
+    "timeDay": 398,
+    "timeWeek": 461,
     "timeMonth": 395,
     "timeYear": 580,
     "dailyMinutesDown": {
@@ -105,7 +106,7 @@
       "2023-02-23": 652,
       "2023-02-22": 770,
       "2023-02-21": 761,
-      "2023-02-20": 79
+      "2023-02-20": 47
     }
   },
   {
@@ -114,7 +115,7 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
     "status": "down",
-    "uptime": "17.16%",
+    "uptime": "17.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -125,7 +126,7 @@
     "timeMonth": 2099,
     "timeYear": 1940,
     "dailyMinutesDown": {
-      "2023-02-27": 563,
+      "2023-02-27": 639,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
