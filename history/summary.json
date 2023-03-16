@@ -87,15 +87,15 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "56.36%",
-    "uptimeWeek": "64.24%",
-    "uptimeMonth": "91.77%",
-    "uptimeYear": "99.31%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "57.10%",
+    "uptimeWeek": "64.49%",
+    "uptimeMonth": "91.83%",
+    "uptimeYear": "99.32%",
     "time": 562,
     "timeDay": 330,
-    "timeWeek": 340,
+    "timeWeek": 341,
     "timeMonth": 365,
     "timeYear": 562,
     "dailyMinutesDown": {
@@ -105,7 +105,7 @@
       "2023-03-13": 471,
       "2023-03-12": 446,
       "2023-03-11": 512,
-      "2023-03-10": 144
+      "2023-03-10": 118
     }
   },
   {
@@ -125,7 +125,7 @@
     "timeMonth": 3313,
     "timeYear": 2116,
     "dailyMinutesDown": {
-      "2023-03-16": 1401,
+      "2023-03-16": 1413,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 1440,
