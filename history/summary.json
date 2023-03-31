@@ -13,7 +13,7 @@
     "time": 3671,
     "timeDay": 552,
     "timeWeek": 2545,
-    "timeMonth": 1922,
+    "timeMonth": 1884,
     "timeYear": 3675,
     "dailyMinutesDown": {
       "2023-03-29": 20,
@@ -89,23 +89,23 @@
     "slug": "harmony-bot-website",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "54.96%",
-    "uptimeWeek": "57.63%",
-    "uptimeMonth": "90.25%",
-    "uptimeYear": "99.19%",
+    "uptimeDay": "58.36%",
+    "uptimeWeek": "57.41%",
+    "uptimeMonth": "90.20%",
+    "uptimeYear": "99.18%",
     "time": 556,
     "timeDay": 384,
     "timeWeek": 768,
-    "timeMonth": 456,
+    "timeMonth": 451,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2023-03-30": 639,
+      "2023-03-30": 628,
       "2023-03-29": 783,
       "2023-03-28": 598,
       "2023-03-27": 722,
       "2023-03-26": 612,
       "2023-03-25": 683,
-      "2023-03-24": 228
+      "2023-03-24": 261
     }
   },
   {
@@ -117,15 +117,16 @@
     "uptime": "16.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1895,
     "timeDay": 5266,
     "timeWeek": 4039,
-    "timeMonth": 3835,
+    "timeMonth": 3920,
     "timeYear": 2205,
     "dailyMinutesDown": {
-      "2023-03-30": 1415,
+      "2023-03-31": 28,
+      "2023-03-30": 1440,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
@@ -488,8 +489,7 @@
       "2022-04-04": 1440,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
-      "2022-04-01": 1440,
-      "2022-03-31": 1440
+      "2022-04-01": 1440
     }
   }
 ]
