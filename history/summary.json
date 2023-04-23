@@ -8,12 +8,12 @@
     "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.04%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.06%",
     "time": 3638,
     "timeDay": 559,
     "timeWeek": 2283,
-    "timeMonth": 2833,
+    "timeMonth": 2721,
     "timeYear": 3565,
     "dailyMinutesDown": {
       "2023-04-20": 19,
@@ -85,15 +85,15 @@
     "url": "$HARMONY_WEB",
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "56.95%",
-    "uptimeWeek": "59.39%",
-    "uptimeMonth": "90.66%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "59.28%",
+    "uptimeWeek": "59.91%",
+    "uptimeMonth": "90.78%",
+    "uptimeYear": "99.23%",
     "time": 526,
     "timeDay": 359,
-    "timeWeek": 359,
+    "timeWeek": 360,
     "timeMonth": 506,
     "timeYear": 527,
     "dailyMinutesDown": {
@@ -103,7 +103,7 @@
       "2023-04-20": 570,
       "2023-04-19": 650,
       "2023-04-18": 658,
-      "2023-04-17": 464
+      "2023-04-17": 411
     }
   },
   {
@@ -123,7 +123,7 @@
     "timeMonth": 2731,
     "timeYear": 2298,
     "dailyMinutesDown": {
-      "2023-04-23": 1059,
+      "2023-04-23": 1114,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
