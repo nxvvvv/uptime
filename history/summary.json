@@ -90,23 +90,23 @@
     "slug": "harmony-bot-website",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "55.34%",
-    "uptimeWeek": "60.03%",
-    "uptimeMonth": "90.80%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "55.20%",
+    "uptimeWeek": "60.12%",
+    "uptimeMonth": "90.82%",
+    "uptimeYear": "99.24%",
     "time": 515,
-    "timeDay": 389,
+    "timeDay": 391,
     "timeWeek": 517,
     "timeMonth": 413,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2023-05-11": 320,
+      "2023-05-11": 346,
       "2023-05-10": 702,
       "2023-05-09": 633,
       "2023-05-08": 722,
       "2023-05-07": 470,
       "2023-05-06": 676,
-      "2023-05-05": 507
+      "2023-05-05": 472
     }
   },
   {
@@ -126,7 +126,7 @@
     "timeMonth": 2000,
     "timeYear": 2417,
     "dailyMinutesDown": {
-      "2023-05-11": 808,
+      "2023-05-11": 849,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
