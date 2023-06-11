@@ -6,17 +6,16 @@
     "slug": "harmony-bot",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.06%",
     "time": 3337,
-    "timeDay": 445,
-    "timeWeek": 1014,
-    "timeMonth": 807,
-    "timeYear": 3247,
+    "timeDay": 507,
+    "timeWeek": 1046,
+    "timeMonth": 801,
+    "timeYear": 3243,
     "dailyMinutesDown": {
-      "2023-06-10": 15,
       "2023-05-24": 41,
       "2023-05-18": 122,
       "2023-05-10": 65,
@@ -82,7 +81,7 @@
       "2022-09-09": 16,
       "2022-09-08": 119,
       "2022-09-07": 164,
-      "2022-09-06": 54
+      "2022-09-06": 84
     }
   },
   {
@@ -91,18 +90,19 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
     "status": "down",
-    "uptime": "98.90%",
+    "uptime": "98.88%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "2.43%",
-    "uptimeMonth": "69.12%",
-    "uptimeYear": "97.43%",
+    "uptimeWeek": "1.13%",
+    "uptimeMonth": "68.65%",
+    "uptimeYear": "97.39%",
     "time": 505,
     "timeDay": 0,
-    "timeWeek": 969,
-    "timeMonth": 509,
+    "timeWeek": 2706,
+    "timeMonth": 510,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2023-06-10": 1268,
+      "2023-06-11": 33,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -129,12 +129,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 2049,
-    "timeDay": 5114,
+    "timeDay": 0,
     "timeWeek": 1808,
     "timeMonth": 3517,
-    "timeYear": 2663,
+    "timeYear": 2676,
     "dailyMinutesDown": {
-      "2023-06-10": 1269,
+      "2023-06-11": 34,
+      "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -497,8 +498,7 @@
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 1440,
-      "2022-06-11": 1440
+      "2022-06-12": 1440
     }
   }
 ]
