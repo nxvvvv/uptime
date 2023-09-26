@@ -6,17 +6,16 @@
     "slug": "harmony-bot",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.07%",
     "time": 3040,
-    "timeDay": 3625,
-    "timeWeek": 2894,
-    "timeMonth": 1854,
-    "timeYear": 2643,
+    "timeDay": 3591,
+    "timeWeek": 2867,
+    "timeMonth": 1849,
+    "timeYear": 2639,
     "dailyMinutesDown": {
-      "2023-09-25": 10,
       "2023-09-07": 65,
       "2023-09-06": 40,
       "2023-08-27": 17,
@@ -86,8 +85,7 @@
       "2022-10-18": 59,
       "2022-10-16": 52,
       "2022-10-13": 25,
-      "2022-09-29": 93,
-      "2022-09-26": 21
+      "2022-09-29": 93
     }
   },
   {
@@ -96,18 +94,19 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
     "status": "down",
-    "uptime": "87.87%",
+    "uptime": "87.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.09%",
+    "uptimeYear": "68.07%",
     "time": 446,
-    "timeDay": 0,
-    "timeWeek": 4226,
-    "timeMonth": 3968,
+    "timeDay": 147,
+    "timeWeek": 3394,
+    "timeMonth": 3672,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2023-09-25": 1369,
+      "2023-09-26": 24,
+      "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
@@ -241,12 +240,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 2401,
-    "timeDay": 99,
+    "timeDay": 0,
     "timeWeek": 3070,
-    "timeMonth": 3690,
+    "timeMonth": 3912,
     "timeYear": 2598,
     "dailyMinutesDown": {
-      "2023-09-25": 1370,
+      "2023-09-26": 25,
+      "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
@@ -609,8 +609,7 @@
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
-      "2022-09-27": 1440,
-      "2022-09-26": 1440
+      "2022-09-27": 1440
     }
   }
 ]
