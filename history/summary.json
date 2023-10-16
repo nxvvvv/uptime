@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.09%",
     "time": 2863,
-    "timeDay": 261,
-    "timeWeek": 1033,
-    "timeMonth": 1292,
+    "timeDay": 502,
+    "timeWeek": 1025,
+    "timeMonth": 1293,
     "timeYear": 2440,
     "dailyMinutesDown": {
       "2023-10-05": 23,
@@ -83,8 +83,7 @@
       "2022-10-25": 19,
       "2022-10-22": 21,
       "2022-10-20": 81,
-      "2022-10-18": 59,
-      "2022-10-16": 52
+      "2022-10-18": 59
     }
   },
   {
@@ -93,18 +92,19 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
     "status": "down",
-    "uptime": "86.16%",
+    "uptime": "86.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.87%",
+    "uptimeYear": "62.59%",
     "time": 450,
     "timeDay": 0,
     "timeWeek": 5123,
     "timeMonth": 4083,
-    "timeYear": 449,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2023-10-15": 26,
+      "2023-10-16": 25,
+      "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
@@ -252,18 +252,19 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
     "status": "down",
-    "uptime": "13.11%",
+    "uptime": "13.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2529,
-    "timeDay": 5318,
-    "timeWeek": 5221,
-    "timeMonth": 3972,
-    "timeYear": 2743,
+    "time": 2541,
+    "timeDay": 3403,
+    "timeWeek": 4811,
+    "timeMonth": 3863,
+    "timeYear": 2761,
     "dailyMinutesDown": {
-      "2023-10-15": 27,
+      "2023-10-16": 26,
+      "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
@@ -626,8 +627,7 @@
       "2022-10-20": 1440,
       "2022-10-19": 1440,
       "2022-10-18": 1440,
-      "2022-10-17": 1440,
-      "2022-10-16": 1440
+      "2022-10-17": 1440
     }
   }
 ]
