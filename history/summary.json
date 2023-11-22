@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.43%",
-    "time": 2627,
-    "timeDay": 395,
-    "timeWeek": 645,
-    "timeMonth": 575,
-    "timeYear": 2092,
+    "time": 2322,
+    "timeDay": 316,
+    "timeWeek": 636,
+    "timeMonth": 579,
+    "timeYear": 2086,
     "dailyMinutesDown": {
       "2023-11-08": 16,
       "2023-10-05": 23,
@@ -67,8 +67,7 @@
       "2022-12-04": 33,
       "2022-12-02": 17,
       "2022-12-01": 68,
-      "2022-11-28": 22,
-      "2022-11-22": 186
+      "2022-11-28": 22
     }
   },
   {
@@ -77,18 +76,19 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-bot-website",
     "status": "down",
-    "uptime": "83.02%",
+    "uptime": "82.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.73%",
-    "time": 466,
+    "uptimeYear": "52.46%",
+    "time": 465,
     "timeDay": 0,
     "timeWeek": 2727,
     "timeMonth": 2269,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2023-11-21": 26,
+      "2023-11-22": 27,
+      "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
@@ -273,18 +273,19 @@
     "icon": "https://raw.githubusercontent.com/navaneethkm004/my-images/main/giphy%20(1).gif",
     "slug": "harmony-backup-bot",
     "status": "down",
-    "uptime": "12.63%",
+    "uptime": "12.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2616,
+    "time": 2626,
     "timeDay": 0,
     "timeWeek": 3707,
     "timeMonth": 2410,
     "timeYear": 2759,
     "dailyMinutesDown": {
-      "2023-11-21": 27,
+      "2023-11-22": 28,
+      "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
@@ -647,8 +648,7 @@
       "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
-      "2022-11-23": 1440,
-      "2022-11-22": 1440
+      "2022-11-23": 1440
     }
   }
 ]
