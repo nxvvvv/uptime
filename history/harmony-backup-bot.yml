@@ -1,7 +1,7 @@
 url: $HARMONY_BACKUP
 status: down
-code: 404
-responseTime: 5023
-lastUpdated: 2023-11-26T23:12:17.219Z
+code: 429
+responseTime: 87
+lastUpdated: 2023-11-27T23:12:48.803Z
 startTime: 2021-02-13T06:20:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
